@@ -104,6 +104,7 @@ Verified domain login functionality
 Tested user access restrictions
 
 🧪 Troubleshooting Scenarios
+
 ❗ Issue: Client Could Not Join Domain
 
 Diagnosis: DNS server not pointing to Domain Controller
