@@ -52,6 +52,7 @@ Configure shared folders and NTFS permissions
 Simulate common help desk tasks
 
 🔧 Key Tasks Performed
+
 1️⃣ Domain Controller Setup
 
 Installed Windows Server 2022
