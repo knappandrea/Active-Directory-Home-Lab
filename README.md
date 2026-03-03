@@ -108,16 +108,19 @@ Tested user access restrictions
 ❗ Issue: Client Could Not Join Domain
 
 Diagnosis: DNS server not pointing to Domain Controller
+
 Resolution: Updated client DNS settings to DC IP address
 
 ❗ Issue: User Locked Out
 
 Diagnosis: Exceeded password attempts threshold
+
 Resolution: Unlocked account via AD Users & Computers
 
 ❗ Issue: Shared Folder Access Denied
 
 Diagnosis: User not added to proper security group
+
 Resolution: Updated group membership and refreshed policy
 
 🔐 Security Concepts Practiced
